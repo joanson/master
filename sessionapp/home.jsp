@@ -13,7 +13,7 @@
 	<br> you will be redirected to home page automatically
 	<br>
 
-
+<h6> joohnson </h6>
 	<%
 		if (session != null) {
 			if (session.getAttribute("user") != null) {
