@@ -8,7 +8,7 @@
 </head>
 <body>
 
-	<h1> 1  Johnson git jenkins push test <h1> <br>
+	<h1> 2  Johnson git jenkins push test <h1> <br>
 	Keep the page ideal for 30 seconds
 	<br> And try reloading the page
 	<br> you will be redirected to home page automatically
